@@ -1,0 +1,11 @@
+Mac de mi Vm
+
+ether 08:00:27:4e:d1:27
+
+IP de mi Vm
+
+inet 10.0.2.15
+
+¿Es diferente la Ip pùblica y privada de nuestra màquina host?
+
+Las direcciones si son diferentes.
